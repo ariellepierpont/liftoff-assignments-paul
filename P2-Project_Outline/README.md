@@ -1,33 +1,23 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
-
 ### Overview
-My project will be an expense tracker that will allow users to track their expenses by time, date, and category. Users will be able to create an account, log in, create, edit, and remove expense_categories, create, edit, and remove expenses. They will be able to review all expenses, expenses by month, and expenses by category.
+My project will be an online training platform for blue collar workers to learn trades and get connected with jobs in their industry. Users will be able to create an account, log in, take a course involving watching videos, working through practice problems, submitting assignments, and taking quizzes. They will be able to review all courses, modules within the course, and upcoming modules.
 
-I decided to make this project because I am getting married next year, and weddings are expensive. I want to track the expenses of the wedding, and generally have a better understanding of my own expenses to better plan for my finacial future. This application can be beneifical for anyone that is looking to gain insight on their own spending habits.
+I decided to make this project because there is a gap in the blue collar work force currently, and this will be my next business venture. I want to make trades more accessible, especially for foster kids aging out of the system who do not have a family to provide college education for them, or the means to support a college education. This application can be beneifical for anyone wanting to work in a trade as an alternative to college, and be able to do it from anywhere.
 
 
 ### Features
 
-- User Sign up: Users will be able to create a new profile for themselves, allowing them to track their own expenses, based on their own categories.
+- User Sign up: Users will be able to create a new profile for themselves, allowing them to work through a course on a trade they are interested in.
 - User Login: Users will be able to login after creating a profile. Passwords will be hashed, salted, and possibly peppered.
-- Edit, Create, and Delete Categories: Users will be able to create new categories to track their own expenses. Categories will be flexible, and can be edited, and deleted.
-- View Expense History: Users will be able to see a full history, and total of their logged expenses.
-- View Expense by Month: Users will be able to see a full log of expenses, and expense total in any given month.
-- View Expenses by Category: Users will be able to see a log, and total for any given category.
+- Watch videos, complete assignments, and complete quizzes: Users will work through various units of aspects of the program they need to learn via watching videos, moving to the next page where they work through an example, then complete a quiz at the end of the unit. 
+- View Course Progress: Users will be able to see their progress through the class, including completed assignments and quizzes.
 
 ### Technologies
-- Rust
-- Rocket
-- Cargo
-- Tera Templates
-- Diesel
-- Foundation CSS
+- Java
+- HTML
+- CSS
+- Agile
+- JS
+- SQL
 
 ### What I'll Have to Learn
-I am newish to Rocket. I understand HTTP Requests, HTTP Responses, and serving up templates. I don't know how to connect to a DB, or of any ORM's in Rust. I will have to do some research on what is available, and what makes sense for a project of this size. I also will have to dive deeper into Handlebar Templates -- mainly fragmenting, and reusing templates within templates.
+I am new to JS and Agile. I understand HTTP Requests, HTTP Responses, and serving up templates. I will have to do some research on what is available, and what makes sense for a project of this size. I also will have to dive deeper into Agile to manage my framework. 
